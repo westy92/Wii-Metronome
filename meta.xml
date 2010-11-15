@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <app version="1">
+    <name>Metronome</name>
+    <coder>Westy92</coder>
+    <version>1.2</version>
+    <release_date>20090101</release_date>
+    <short_description>A Metronome for the Wii</short_description>
+    <long_description>This is the first metronome ever coded for the Nintendo Wii.  Using this application, you can keep a steady tempo while practicing an instrument.</long_description>
+  </app>
